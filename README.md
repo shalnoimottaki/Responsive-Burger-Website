@@ -2,4 +2,4 @@
 Responsive Burger Website Design Using HTML SCSS And JavaScript     Contains animations when scrolling.     Smooth scrolling in each section.     Developed first with the Mobile First methodology, then for desktop.     Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![alt text]([http://url/to/img.png](https://github.com/shalnoimottaki/Responsive-Burger-Website/blob/main/preview.png))
+![screenshot](preview.png)
